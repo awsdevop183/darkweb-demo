@@ -115,7 +115,7 @@ sudo cat /var/lib/tor/nexuschat/hostname
 Example output:
 
 ```
-abcxyz123456789.onion
+k5ldji2rlxxvhbtwiubahncd2voql3hpyizuwfdjw4qnedivryqen5qd.onion
 ```
 
 ---
