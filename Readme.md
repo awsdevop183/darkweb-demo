@@ -137,6 +137,11 @@ http://youronion.onion/
   <img src="./images/rendezvous-point.png" width="700">
 </p>
 
+# Tor + Nginx + Node
+<p align="center">
+  <img src="./images/tor.png" width="700">
+</p>
+
 # Admin Access
 
 Press the following on the page:

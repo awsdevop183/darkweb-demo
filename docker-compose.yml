@@ -6,7 +6,7 @@ services:
     container_name: nexusmarket-app
     restart: unless-stopped
     environment:
-      - ADMIN_PASSWORD=nexus2024
+      - ADMIN_PASSWORD=nexus2026
     volumes:
       - market-data:/data
     networks:
